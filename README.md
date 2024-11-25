@@ -87,6 +87,13 @@ on the host in the Linux_for_Tegra folder and reflash.
 
 ## Release Notes
 
+### November 2024
+* JetPack 6.1
+* L4T 3.4
+* Add support for Orin Nano Developer Kit
+* Tested on Orin Nano, NVMe SSD
+* Tested on x86 host running Ubuntu 22.04
+
 ### September 2023
 * JetPack 5.1.2
 * L4T 35.4.1
