@@ -6,7 +6,7 @@
 # Install the dependencies required to flash Jetson
 #
 
-JETSON_FOLDER=R35.4.1
+JETSON_FOLDER=R36.4 # UPDATED: Updated folder to match Jetpack 36.4 version.
 
 # Sanity warning; Make sure we're not running from a Jetson
 # First check to see if we're running on Ubuntu
